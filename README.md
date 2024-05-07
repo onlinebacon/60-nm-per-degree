@@ -53,7 +53,9 @@ Here are the coordinates considered for each city:
 
 Taking the actual measurements would require some effort and resources, either finding volunteers that have access to the given locations or paying professionals to do it. Still doable. But so far I'll resort to a free and open source software that can render how the sky is observed from any given location and time with high accuracy, which is [Stellarium](https://stellarium.org/).
 
-Setting the time for April 3rd, 2024 we get that the Star arcturus is overhead Tres Marias. At that same time, Arcturus is observed to be at the altitude angles `56° 12'` from Saint-Constant and `35° 11' 46.4"` from Cuiabá.
+Setting the time for UTC 8:05:10 AM April 3rd, 2024 we get that the Star arcturus is overhead Tres Marias. At that same time, Arcturus is observed to be at the altitude angles `56° 12'` from Saint-Constant and `35° 11' 46.4"` from Cuiabá.
+
+At 5:34:45 AM, July 22nd, 2024, the star Deneb is over Saint-Constant, and its altitude angles are `26° 15' 14.1"` from Jaboatão and `27° 01' 09.9"` from Cuiabá.
 
 <!-- 
 - name: Tres Marias - Mexico
