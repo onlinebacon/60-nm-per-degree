@@ -7,6 +7,7 @@
 	- [60 NM per Degree](#60-nm-per-degree)
 	- [Trigonometry Issue on Flat Earth](#trigonometry-issue-on-flat-earth)
 	- [Four Points](#four-points)
+- [The Data](#the-data)
 
 ## Introduction
 
@@ -39,6 +40,18 @@ There are six pairs of points in a group of four points. And it's not possible t
 If you're now wondering if a curved surface could solve that, it turns out it can. You can play with a 3D example of it [here](https://www.geogebra.org/m/m6A6U95q). Or just check the Image below.
 
 ![Sphere with four equidistant points](img/sphere-4-points.png)
+
+## The Data
+
+Four cities were picked for this experiment: Tres Marias (Mexico), Saint-Constant (Canada), Jaboatão dos Guararapes (Brazil) and Cuiabá (Brazil). Three of them are in the path of the GP of a navigation star. So for around half the year those cities every night at some point become the GP of their respective stars, allowing other observers to get their distance to it by simply measuring the angle to that star. The fourth city, Cuiabá, isn't in the path of a navigation star, but from that city the other stars can be observed when their GPs are over the target cities.
+
+Here are the coordinates considered for each city:
+- **Tres Marias:** N 19° 3' 7.40", W 99° 14' 33.50"
+- **Saint-Constant:** N 45° 22' 1.40", W 73° 34' 55.50"
+- **Jaboatão:** S 8° 10' 20.70", W 34° 54' 54.40"
+- **Cuiabá:** S 15° 36' 35.70", W 56° 3' 58.40"
+
+Taking the actual measurements would require some effort and resources, either finding volunteers that have access to the given locations or paying professionals to do it. Still doable. But so far I'll resort to a free and open source software that can render how the sky is observed from any given location and time with high accuracy, which is [Stellarium](https://stellarium.org/).
 
 <!-- 
 - name: Tres Marias - Mexico
