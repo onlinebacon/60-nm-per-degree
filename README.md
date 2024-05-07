@@ -10,13 +10,15 @@
 
 ## Introduction
 
+In this document we'll look at how a simple rule used in celestial navigation debunks the idea that Earth could be flat.
+
 ### GP and Zenith
 
-The position on earth where a star appears overhead is called the geographical position (GP) of that star. Another key concept here is the name of this point directly overhead, it is called **Zenith**.
+The position on Earth where a star appears overhead is called the geographical position (GP) of that star. Another key concept here is the name of this point directly overhead, it is called **Zenith**.
 
 ### 60 NM per Degree
 
-It is a rule of thumb that a distance between an observer and the GP of a star correlates to how high in the sky the star observed from that observer, and that correlation is understood to be 60 nautical miles (NM) per degree.
+It is a rule of thumb that a distance between an observer and the GP of a star correlates to how high in the sky is the star for that observer, and that correlation is understood to be 60 nautical miles (NM) per degree.
 
 For example, let's say the star Betelgeuse is directly overhead (at the zenith of) an observer, that means that observer is standing on Betelgeuse's GP. At the same time a second observer observers Betelgeuse but for him the star is 30° below his zenith. Using the rule of thumb the distance between those observers would be $60 \times 30 = 1800$ NM. If another observer has the star 60° below his zenith, than this third observer would be $60 \times 60 = 3600$ NM away from the star's GP and so on.
 
