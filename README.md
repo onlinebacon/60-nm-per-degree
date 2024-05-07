@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 	- [GP and Zenith](#gp-and-zenith)
 	- [60 NM per Degree](#60-nm-per-degree)
-	- [Trigonometry Issue on Flat Earth](#trigonometry-issue-on-flat-earth)
+	- [The Trigonometry Problem on Flat Earth](#the-trigonometry-problem-on-flat-earth)
 	- [Four Points](#four-points)
 - [The Data](#the-data)
 
@@ -23,7 +23,7 @@ It is a rule of thumb that the distance between an observer and the GP of a star
 
 For example, let's say the star Betelgeuse is directly overhead (at the zenith of) an observer, that means that observer is standing on Betelgeuse's GP. At the same time a second observer sights Betelgeuse, but for him the star is 30° below his zenith. Using the rule of thumb the distance between these two observers would be $60 \times 30 = 1800$ NM. If another observer has the star 60° below his zenith, then this third observer would be $60 \times 60 = 3600$ NM away from the star's GP and so on.
 
-### Trigonometry Issue on Flat Earth
+### The Trigonometry Problem on Flat Earth
 
 If you're familiar with trigonometry you might already be spotting an issue for flat Earth with this correlation. We can use trigonometric functions to figure out, for example, how high the top of a building will appear for an observer giving the building's height, the observer's height and the distance between the observer and the building. And for the top of the building to drop from 30° to 60° by simply moving away from it over a flat surface it would require you to triple your distance to the building, while with the rule of thumb of navigation the distance is just doubling.
 
@@ -52,6 +52,8 @@ Here are the coordinates considered for each city:
 - **Cuiabá:** S 15° 36' 35.70", W 56° 3' 58.40"
 
 Taking the actual measurements would require some effort and resources, either finding volunteers that have access to the given locations or paying professionals to do it. Still doable. But so far I'll resort to a free and open source software that can render how the sky is observed from any given location and time with high accuracy, which is [Stellarium](https://stellarium.org/).
+
+Setting the time for April 3rd, 2024 we get that the Star arcturus is overhead Tres Marias. At that same time, Arcturus is observed to be at the altitude angles `56° 12'` from Saint-Constant and `35° 11' 46.4"` from Cuiabá.
 
 <!-- 
 - name: Tres Marias - Mexico
