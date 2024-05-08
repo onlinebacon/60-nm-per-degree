@@ -6,7 +6,7 @@
 	- [GP and Zenith](#gp-and-zenith)
 	- [60 NM per Degree](#60-nm-per-degree)
 	- [The Trigonometry Problem on Flat Earth](#the-trigonometry-problem-on-flat-earth)
-	- [Four Points](#four-points)
+	- [The Geometry of Four Points](#the-geometry-of-four-points)
 - [The Data](#the-data)
 
 ## Introduction
@@ -29,7 +29,7 @@ If you're familiar with trigonometry you might already be spotting an issue for 
 
 There are, however, ad-hoc hypotheses that could explain how this 60 NM per degree relationship could emerge on flat Earth, with some type of upward light bending or some other sort of idea. The goal of this document is not to explore this argument, we will simply accept the rule and assume there is some mechanism that explains it or causes it on flat Earth and move forward.
 
-### Four Points
+### The Geometry of Four Points
 
 There is still a deeper problem to be explored, because this relationship can provide us with long distances between points on Earth's surface, and again, with the help of geometry or with scaled down models, we can determine whether this distances could or could not exist within a flat surface.
 
@@ -53,9 +53,19 @@ Here are the coordinates considered for each city:
 
 Taking the actual measurements would require some effort and resources, either finding volunteers that have access to the given locations or paying professionals to do it. Still doable. But so far I'll resort to a free and open source software that can render how the sky is observed from any given location and time with high accuracy, which is [Stellarium](https://stellarium.org/).
 
-Setting the time for UTC 8:05:10 AM, April 3rd, 2024, we get that the Star arcturus is overhead Tres Marias. At that same time, Arcturus is observed to be at the altitude angles `56° 12' 0"` from Saint-Constant and `35° 11' 46.4"` from Cuiabá.
+Setting the time for UTC 8:05:10 AM, April 3rd, 2024, we get that the Star Arcturus is overhead Tres Marias. At that same time, Arcturus is observed to be at the altitude angles `56° 12' 0"` from Saint-Constant and `35° 11' 46.4"` from Cuiabá.
 
-At 5:34:45 AM, July 22nd, 2024, the star Deneb is over Saint-Constant, and its altitude angles are `26° 15' 14.1"` from Jaboatão and `27° 01' 09.9"` from Cuiabá.
+At UTC 5:34:45 AM, July 22nd, 2024, the star Deneb is over Saint-Constant, and its altitude angles are `26° 15' 14.1"` from Jaboatão and `27° 01' 09.9"` from Cuiabá.
+
+<!-- At UTC 1:34:56 AM, July 22nd, 2024, the star Deneb is over Saint-Constant, and its altitude angles are `26° 15' 14.1"` from Jaboatão and `27° 01' 09.9"` from Cuiabá. -->
+
+Stellarium Screenshots:
+- [Arcturus over Tres Marias](img/01-arcturus-over-tres-marias.png)
+- [Saint-Constant to Tres Marias](img/02-saint-constant-to-tres-marias.png)
+- [Cuiabá to Tres Marias](img/03-cuiaba-to-tres-marias.png)
+- [Deneb over Saint-Constant](img/04-deneb-over-saint-constant.png)
+- [Jaboatão to Saint-Constant](img/05-jaboatao-to-saint-constant.png)
+- [Cuiabá to Saint-Constant](img/06-cuiaba-to-saint-constant.png)
 
 <!-- 
 - name: Tres Marias - Mexico
