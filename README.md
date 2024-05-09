@@ -57,7 +57,7 @@ Setting the time for UTC 8:05:10 AM, April 3rd, 2024, we get that the Star Arctu
 
 At UTC 5:34:45 AM, July 22nd, 2024, the star Deneb is over Saint-Constant, and its altitude angles are `26° 15' 14.1"` from Jaboatão and `27° 01' 09.9"` from Cuiabá.
 
-<!-- At UTC 1:34:56 AM, July 22nd, 2024, the star Deneb is over Saint-Constant, and its altitude angles are `26° 15' 14.1"` from Jaboatão and `27° 01' 09.9"` from Cuiabá. -->
+At UTC 1:34:56 AM, December 21st, 2024, the star Rigel is over Jaboatão, and its altitude angles are `68° 02' 02.6"` from Cuiabá and `21° 04' 38.9"` from Tres Marias.
 
 Stellarium Screenshots:
 - [Arcturus over Tres Marias](img/01-arcturus-over-tres-marias.png)
