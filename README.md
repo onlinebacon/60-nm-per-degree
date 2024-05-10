@@ -112,4 +112,4 @@ In nautical almanacs like the one you can find on this [link](https://thenautica
 
 ![Correction](img/ref-correction.png)
 
-In the case of our lowest angle of `21° 04' 38.9"` the correction would be more than `-2.6'`, which would translate to our scaled model to one of the stripes being `0.005 in` smaller. That would be the **largest** correction, because every other angle is higher, so the correction would be smaller. A correction so miniscule it would be hard to even notice whether or not it was applied. So no, applying or not refraction corrections does not significantly change the results.
+In the case of our lowest angle of `21° 04' 38.9"` the correction would be no more than `-2.6'`, which would translate to our scaled model to one of the stripes being `0.005 in` smaller. That would be the **largest** correction, because every other angle is higher, so the correction would be smaller. A correction so miniscule it would be hard to even notice whether or not it was applied. So no, applying or not refraction corrections does not significantly change the results.
