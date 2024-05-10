@@ -1,4 +1,4 @@
-# Sixty Nautical Miles per Degree on Flat Earth
+# 60 Nautical Miles per Degree on Flat Earth
 
 ## Content
 
