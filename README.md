@@ -66,6 +66,7 @@ Stellarium Screenshots:
 - [Deneb over Saint-Constant](img/04-deneb-over-saint-constant.png)
 - [Jaboatão to Saint-Constant](img/05-jaboatao-to-saint-constant.png)
 - [Cuiabá to Saint-Constant](img/06-cuiaba-to-saint-constant.png)
+- [Rigel over Jaboatão](img/07-rigel-over-jaboatao.png)
 
 <!-- 
 - name: Tres Marias - Mexico
