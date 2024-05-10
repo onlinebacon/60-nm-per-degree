@@ -86,7 +86,7 @@ All those angles are altitude angles, they are the compliment of the angle from 
 
 ## Testing It With Flat Earth
 
-One way we can test whether these distances can fit a plane or a sphere is to scale them down and try to connect four points with physical representation of distances. Which is what [Jesse Gordon](https://www.youtube.com/@fromjesse) did with these values. He cut stripes of paper with two small holes, one on each end, where the distance between the holes were scaled down versions of the nautical mile distances we got. The scale used was 1 to 41.5 millions. He then tied the holes using strings.
+One way we can test whether these distances can fit a plane or a sphere is to scale them down and try to connect four points with physical representations of the distances. Which is what [Jesse Gordon](https://www.youtube.com/@fromjesse) did with these values. He cut stripes of paper with two small holes, one on each end, where the distance between the holes were scaled down versions of the nautical mile distances we got. The scale used was 1 to 41.5 millions. He then tied the holes using strings.
 
 After tying three holes, it's already possible to notice that the remaining distances can't simultaneously match a consistent remaining point, at least not when those distances are lying on a flat surface.
 
