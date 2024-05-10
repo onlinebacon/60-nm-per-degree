@@ -73,7 +73,7 @@ Stellarium Screenshots:
 - [Rigel sighted from Cuiabá](img/08-cuiaba-to-jaboatao.png)
 - [Rigel sighted from Tres Marias](img/09-tres-marias-to-jaboatao.png)
 
-All those angles are altitude angles, they are the compliment of the angle from zenith. What that means is that when the star is at zenith, the altitude angle will be 90°, just like when the angle from zenith is 90° the altitude angle will be 0°. We can switch between them by subtracting the angle from 90°. Using the celestial navigation rule we then multiply the resulting angles by 60 NM and that should gives us the distances between all of these cities at the points we used for the observations.
+All those angles are altitude angles, they are the compliment of the angle from zenith. What that means is that when the star is at zenith, the altitude angle will be 90°, just like when the angle from zenith is 90° the altitude angle will be 0°. We can switch between them by subtracting the angle from 90°. Using the celestial navigation rule we then multiply the resulting angles by 60 NM and that should give us the distances between all of these cities at the points we used for the observations.
 
 | From           | To             | Alt.          | Zenith     | Distance   |
 |----------------|----------------|---------------|------------|------------|
