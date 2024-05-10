@@ -3,7 +3,6 @@
 ## Content
 
 - [Introduction](#introduction)
-	- [GP and zenith](#gp-and-zenith)
 	- [60 nm per degree](#60-nm-per-degree)
 	- [The trigonometry problem on flat Earth](#the-trigonometry-problem-on-flat-earth)
 	- [The geometry of four points](#the-geometry-of-four-points)
@@ -16,13 +15,13 @@
 
 In this document we'll look at how a simple rule used in celestial navigation debunks the idea that Earth could be flat.
 
-### GP and Zenith
+The main concept that we're gonna be using is the idea that as you move away from a celestial body on Earth's surface that body will appear progressively lower in the sky, and moving towards it will cause it to appear higher.
 
-The position on Earth where a star appears overhead is called the geographical position (GP) of that star. Another key concept here is the name of this point directly overhead, it is called **Zenith**.
+The highest in the sky a celestial body can appear is directly overhead. The point directly overhead an observer is called the observer's **zenith**. If an observer has a certain celestial body at his zenith, then he's standing on what's called the **geographical position** (GP) of that body.
 
 ### 60 NM per Degree
 
-It is a rule of thumb that the distance between an observer and the GP of a star correlates to how high in the sky the star is for that observer, and that correlation is understood to be 60 nautical miles (NM) per degree.
+It is a rule of thumb that the distance between an observer and the GP of a star correlates following a 60 nautical miles (NM) per degree relationship.
 
 For example, let's say the star Betelgeuse is directly overhead (at the zenith of) an observer, that means that observer is standing on Betelgeuse's GP. At the same time a second observer sights Betelgeuse, but for him the star is 30° below his zenith. Using the rule of thumb the distance between these two observers would be $60 \times 30 = 1800$ NM. If another observer has the star 60° below his zenith, then this third observer would be $60 \times 60 = 3600$ NM away from the star's GP and so on.
 
