@@ -34,7 +34,7 @@ There are, however, ad-hoc hypotheses that could explain how this 60 NM per degr
 
 ### The Geometry of Four Points
 
-There is still a deeper problem to be explored, because this relationship can provide us with long distances between points on Earth's surface, and again, with the help of geometry or with scaled down models, we can determine whether this distances could or could not exist within a flat surface.
+There is still a deeper problem to be explored, because this relationship can provide us with long distances between points on Earth's surface, and again, with the help of geometry or with scaled down models, we can determine whether these distances could or could not exist within a flat surface.
 
 If it's not clear that with distances between points it's possible to rule out they being on a plane, try picturing four points on the same plane that have the same distance between all pairs of points. If you immediately thought of a square, notice that the four pairs of adjacent points forming the sides of the square are equidistant, however opposing points that form diagonals in this square are at a larger distance apart, around 41.4% larger.
 
@@ -88,7 +88,7 @@ All those angles are altitude angles, they are the compliment of the angle from 
 
 One way we can test whether these distances can fit a plane or a sphere is to scale them down and try to connect four points with physical representation of distances. Which is what [Jesse Gordon](https://www.youtube.com/@fromjesse) did with these values. He cut stripes of paper with two small holes, one on each end, where the distance between the holes were scaled down versions of the nautical mile distances we got. The scale used was 1 to 41.5 millions. He then tied the holes using strings.
 
-After tying three holes it's already possible to notice that the remaining distances can't simultaneously match a consistent remaining point, at least not when those distances are lying on a flat surface.
+After tying three holes, it's already possible to notice that the remaining distances can't simultaneously match a consistent remaining point, at least not when those distances are lying on a flat surface.
 
 ![Flat mismatch](img/fe-mismatch-1.jpg)
 
