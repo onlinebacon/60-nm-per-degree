@@ -74,14 +74,14 @@ Stellarium Screenshots:
 
 All those angles are altitude angles, they are the compliment of the angle from zenith. What that means is that when the star is at zenith, the altitude angle will be 90°, just like when the angle from zenith is 90° the altitude angle will be 0°. We can switch between them by subtracting the angle from 90°. Using the celestial navigation rule we then multiply the resulting angles by 60 NM and that should give us the distances between all of these cities at the points we used for the observations.
 
-| From           | To             | Alt.          | Zenith     | Distance   |
-|----------------|----------------|---------------|------------|------------|
-| Saint-Constant | Tres Marias    | 56° 12' 00.0" | 33.800000° | 2028.00 NM |
-| Cuiabá         | Tres Marias    | 35° 11' 46.4" | 54.803778° | 3288.23 NM |
-| Jaboatão       | Saint-Constant | 26° 15' 14.1" | 63.746083° | 3824.76 NM |
-| Cuiabá         | Saint-Constant | 27° 01' 09.9" | 62.980583° | 3778.84 NM |
-| Cuiabá         | Jaboatão       | 68° 02' 02.6" | 21.965944° | 1317.96 NM |
-| Tres Marias    | Jaboatão       | 21° 04' 38.9" | 68.922528° | 4135.35 NM |
+| From           | To             | Alt.          | Zenith Angle | Distance   |
+|----------------|----------------|---------------|--------------|------------|
+| Saint-Constant | Tres Marias    | 56° 12' 00.0" |   33.800000° | 2028.00 NM |
+| Cuiabá         | Tres Marias    | 35° 11' 46.4" |   54.803778° | 3288.23 NM |
+| Jaboatão       | Saint-Constant | 26° 15' 14.1" |   63.746083° | 3824.76 NM |
+| Cuiabá         | Saint-Constant | 27° 01' 09.9" |   62.980583° | 3778.84 NM |
+| Cuiabá         | Jaboatão       | 68° 02' 02.6" |   21.965944° | 1317.96 NM |
+| Tres Marias    | Jaboatão       | 21° 04' 38.9" |   68.922528° | 4135.35 NM |
 
 ## Testing It With Flat Earth
 
@@ -112,3 +112,5 @@ In nautical almanacs like the one you can find on this [link](https://thenautica
 ![Correction](img/ref-correction.png)
 
 In the case of our lowest angle of `21° 04' 38.9"` the correction would be no more than `-2.6'`, which would translate to our scaled model to one of the stripes being `0.005 in` smaller. That would be the **largest** correction, because every other angle is higher, so the correction would be smaller. A correction so miniscule it would be hard to even notice whether or not it was applied. So no, applying or not refraction corrections does not significantly change the results.
+
+If anything, refraction would make this problem worse. The refraction correction adds to the zenith angle. Also, the larger is the zenith angle, the larger is the refraction correction. Making the zenith angles larger means making the distances to the GPs larger. In other words, by applying these corrections, all the distances would get larger, but the diagonals would get proportionally larger than the side lengths, going in the opposite direction that flat earth would need to solve this problem.
