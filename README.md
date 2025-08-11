@@ -15,9 +15,9 @@
 
 In this document we'll look at how a simple rule used in celestial navigation debunks the idea that Earth could be flat.
 
-The main concept that we're gonna be using is the idea that as you move away from a celestial body on Earth's surface that body will appear progressively lower in the sky, and moving towards it will cause it to appear higher.
+The main concept that we're going to use is the idea that as you move away from a celestial body on Earth's surface that body will appear progressively lower in the sky, and moving towards it will cause it to appear higher.
 
-The highest in the sky a celestial body can appear is directly overhead. The point directly overhead an observer is called the observer's **zenith**. If an observer has a certain celestial body at his zenith, then he's standing on what's called the **geographical position** (GP) of that body.
+The highest in the sky a celestial body can appear is directly overhead. The point directly overhead an observer is called the observer's **zenith**. If an observer has a certain celestial body at his zenith, then he's standing on what is called the **geographical position** (GP) of that body.
 
 ### 60 NM per Degree
 
@@ -27,7 +27,7 @@ For example, let's say the star Betelgeuse is directly overhead (at the zenith o
 
 ### The Trigonometry Problem on Flat Earth
 
-If you're familiar with trigonometry you might already be spotting an issue for flat Earth with this correlation. We can use trigonometric functions to figure out, for example, how high the top of a building will appear for an observer giving the building's height, the observer's height and the distance between the observer and the building. And for the top of the building to drop from 30° to 60° by simply moving away from it over a flat surface it would require you to triple your distance to the building, while with the rule of thumb of navigation the distance is just doubling.
+If you're familiar with trigonometry you might already be spotting an issue for flat Earth with this correlation. We can use trigonometric functions to figure out, for example, how high the top of a building will appear for an observer given the building's height, the observer's height and the distance between the observer and the building. And for the top of the building to drop from 30° to 60° by simply moving away from it over a flat surface it would require you to triple your distance to the building, while with the rule of thumb of navigation the distance is just doubling.
 
 There are, however, ad-hoc hypotheses that could explain how this 60 NM per degree relationship could emerge on flat Earth, with some type of upward light bending, a different version of perspective or some other sort of idea. The goal of this document is not to explore this argument, we will simply accept the rule and assume there is some mechanism that explains it or causes it on flat Earth and move forward.
 
@@ -35,17 +35,17 @@ There are, however, ad-hoc hypotheses that could explain how this 60 NM per degr
 
 There is still a deeper problem to be explored, because this relationship can provide us with long distances between points on Earth's surface, and again, with the help of geometry or with scaled down models, we can determine whether these distances could or could not exist within a flat surface.
 
-If it's not clear that with distances between points it's possible to rule out they being on a plane, try picturing four points on the same plane that have the same distance between all pairs of points. If you immediately thought of a square, notice that the four pairs of adjacent points forming the sides of the square are equidistant, however opposing points that form diagonals in this square are at a larger distance apart, around 41.4% larger.
+If it's not clear that with distances between points it's possible to rule out their being on a plane, try picturing four points on the same plane that have the same distance between all pairs of points. If you immediately thought of a square, notice that the four pairs of adjacent points forming the sides of the square are equidistant, however opposing points that form diagonals in this square are at a larger distance apart, around 41.4% larger.
 
 There are six pairs of points in a group of four points. And it's not possible to have all six pairs equidistant when the points are in the same plane.
 
-If you're now wondering if a curved surface could solve that, it turns out it can. You can play with a 3D example of it [here](https://www.geogebra.org/m/m6A6U95q). Or just check the Image below.
+If you're now wondering if a curved surface could solve that, it turns out it can. You can play with a 3D example of it [here](https://www.geogebra.org/m/m6A6U95q). Or just check the image below.
 
 ![Sphere with four equidistant points](img/sphere-4-points.png)
 
 ## The Data
 
-Four cities were picked for this experiment: Tres Marias (Mexico), Saint-Constant (Canada), Jaboatão dos Guararapes (Brazil) and Cuiabá (Brazil). Three of them are in the path of the GP of a navigation star. So for around half the year those cities every night at some point become the GP of their respective stars, allowing other observers to get their distance to it by simply measuring the angle to that star. The fourth city, Cuiabá, isn't in the path of a navigation star, but from that city the other stars can be observed when their GPs are over the target cities.
+Four cities were picked for this experiment: Tres Marias (Mexico), Saint-Constant (Canada), Jaboatão dos Guararapes (Brazil) and Cuiabá (Brazil). Three of them are in the path of the GP of a navigation star. So for around half the year those cities every night at some point become the GP of their respective stars, allowing other observers to get their distance to it by simply measuring the angle to that star. The fourth city, Cuiabá, isn't in the path of a navigation star, but from there the other stars can be observed when their GPs are over the target cities.
 
 Here are the coordinates considered for each city:
 - **Tres Marias:** N 19° 3' 7.40", W 99° 14' 33.50"
@@ -72,7 +72,7 @@ Stellarium Screenshots:
 - [Rigel sighted from Cuiabá](img/08-cuiaba-to-jaboatao.png)
 - [Rigel sighted from Tres Marias](img/09-tres-marias-to-jaboatao.png)
 
-All those angles are altitude angles, they are the compliment of the angle from zenith. What that means is that when the star is at zenith, the altitude angle will be 90°, just like when the angle from zenith is 90° the altitude angle will be 0°. We can switch between them by subtracting the angle from 90°. Using the celestial navigation rule we then multiply the resulting angles by 60 NM and that should give us the distances between all of these cities at the points we used for the observations.
+All those angles are altitude angles, they are the complement of the angle from zenith. What that means is that when the star is at zenith, the altitude angle will be 90°, just like when the angle from zenith is 90° the altitude angle will be 0°. We can switch between them by subtracting the angle from 90°. Using the celestial navigation rule we then multiply the resulting angles by 60 NM and that should give us the distances between all of these cities at the points we used for the observations.
 
 | From           | To             | Alt.          | Zenith Angle | Distance   |
 |----------------|----------------|---------------|--------------|------------|
@@ -87,7 +87,7 @@ All those angles are altitude angles, they are the compliment of the angle from 
 
 One way we can test whether these distances can fit a plane or a sphere is to scale them down and try to connect four points with physical representations of the distances. Which is what [Jesse Gordon](https://www.youtube.com/@fromjesse) did with these values. He cut stripes of paper with two small holes, one on each end, where the distance between the holes were scaled down versions of the nautical mile distances we got. The scale used was 1 to 41.5 millions. He then tied the holes using strings.
 
-After tying three holes, it's already possible to notice that the remaining distances can't simultaneously match a consistent remaining point, at least not when those distances are lying on a flat surface.
+After tying three holes, it's already clear that the remaining distances cannot simultaneously match a consistent remaining point, at least not when those distances are lying on a flat surface.
 
 ![Flat mismatch](img/fe-mismatch-1.jpg)
 
@@ -95,7 +95,7 @@ And after tying the last holes, the diagonals of the quadrilateral formed bend o
 
 ![Flat mismatch](img/fe-mismatch-2.jpg)
 
-The diagonal distances are too great to fit inside of the four points.
+The diagonal distances are too great to fit within the four points.
 
 ## Testing It With Globe Earth
 
@@ -113,4 +113,5 @@ In nautical almanacs like the one you can find on this [link](https://thenautica
 
 In the case of our lowest angle of `21° 04' 38.9"` the correction would be no more than `-2.6'`, which would translate to our scaled model to one of the stripes being `0.005 in` smaller. That would be the **largest** correction, because every other angle is higher, so the correction would be smaller. A correction so miniscule it would be hard to even notice whether or not it was applied. So no, applying or not refraction corrections does not significantly change the results.
 
-If anything, refraction would make this problem worse. The refraction correction adds to the zenith angle. Also, the larger is the zenith angle, the larger is the refraction correction. Making the zenith angles larger means making the distances to the GPs larger. In other words, by applying these corrections, all the distances would get larger, but the diagonals would get proportionally larger than the side lengths, going in the opposite direction that flat earth would need to solve this problem.
+
+If anything, refraction would make this problem worse. The refraction correction adds to the zenith angle. Also, the larger the zenith angle, the larger is the refraction correction. Making the zenith angles larger means making the distances to the GPs larger. In other words, by applying these corrections, all the distances would get larger, but the diagonals would get proportionally larger than the side lengths, going in the opposite direction that flat earth would need to solve this problem.
